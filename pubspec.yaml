@@ -1,6 +1,6 @@
 name: syn_logger_console_writer
 description: Service dependency for the synaptic_thread_safe_logger, required to write logs to the console
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/synaptik-develop/syn_logger_console_writer
 
 environment:
